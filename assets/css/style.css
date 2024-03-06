@@ -9,18 +9,42 @@ body {
 	font-family: "Libre Baskerville", serif;
 	font-weight: 400;
 	font-style: normal;
-	display: flex;
-	flex-direction: column;
 }
 
 header {
 	background-color: #ead7c3;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+}
+
+.nav {
+	margin-left: auto;
+}
+
+#menu {
+	list-style: none;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 10px;
+}
+
+#menu a {
+	text-decoration: none;
+	color: #000;
+}
+
+.active {
+	border-bottom: 2px solid #000;
 }
 
 main {
-	background-color: #dce0d9;
+	background-color: #fbf6ef;
 }
 
 footer {
-	background-color: #fbf6ef;
+	background-color: #dce0d9;
 }
