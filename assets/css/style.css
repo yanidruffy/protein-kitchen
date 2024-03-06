@@ -9,6 +9,8 @@ body {
 	font-family: "Libre Baskerville", serif;
 	font-weight: 400;
 	font-style: normal;
+	display: flex;
+	flex-direction: column;
 }
 
 header {
@@ -16,15 +18,18 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 20px;
+	padding: 5px 20px;
+	position: fixed;
+	width: 100%;
 }
 
 .nav {
-	margin-left: auto;
+	text-align: right;
+	margin-right: 2rem;
 }
 
 #menu {
-	list-style: none;
+	list-style-type: none;
 }
 
 #menu li {
@@ -47,4 +52,21 @@ main {
 
 footer {
 	background-color: #dce0d9;
+	padding: 1rem;
+}
+
+footer > h3 {
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+#socials {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-evenly;
+}
+
+#socials i {
+	color: #000;
+	padding: 0 1.5rem;
 }
