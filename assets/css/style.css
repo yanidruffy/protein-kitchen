@@ -18,7 +18,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 5px 20px;
+	padding-left: 20px;
 	position: fixed;
 	width: 100%;
 }
@@ -33,7 +33,7 @@ header {
 }
 
 #menu li {
-	display: inline-block;
+	display: block;
 	margin: 10px;
 }
 
@@ -48,6 +48,17 @@ header {
 
 main {
 	background-color: #fbf6ef;
+	margin-top: 120px;
+}
+
+#hero {
+	height: 500px;
+	width: 100%;
+	background: url(../images/hero-pk.jpg) no-repeat center right / cover;
+}
+
+.hero-text {
+
 }
 
 footer {
@@ -69,4 +80,18 @@ footer > h3 {
 #socials i {
 	color: #000;
 	padding: 0 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+	header {
+		position: relative;
+	}
+
+	#menu li {
+		display: inline-block;
+	}
+
+	main {
+		margin-top: 0px;
+	}
 }
