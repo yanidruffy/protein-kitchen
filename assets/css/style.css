@@ -7,11 +7,10 @@
 
 body {
 	font-family: "Libre Baskerville", serif;
-	/* font-weight: 400;
-	font-style: normal; */
 	display: flex;
 	flex-direction: column;
 	width: 100%;
+	min-height: 100vh;
 }
 
 h1, h2, h3, h4, h5 {
@@ -25,6 +24,11 @@ h2, h4 {
 h3 {
 	text-align: center;
 	margin-bottom: 20px;
+}
+
+strong {
+	font-size: 110%;
+	text-transform: uppercase;
 }
 
 header {
@@ -64,6 +68,7 @@ header {
 main {
 	background-color: #fbf6ef;
 	margin-top: 120px;
+	flex: 1;
 }
 
 #hero {
@@ -102,6 +107,43 @@ main {
 
 #photos {
 	line-height: 0;
+}
+
+/* Sign Up page */
+#signup {
+	background: url(../images/pexels-shvets-production-7525118.jpg) no-repeat center right / cover;
+	height: 100vh;
+}
+
+#form {
+	background-color: rgba(248, 237, 235, 0.6);
+	height: 100vh;
+	text-align: center;
+}
+
+#form > h2 {
+	padding: 30px;
+	text-transform: none;
+}
+
+#form > div {
+	padding: 0px 50px 20px ;
+}
+
+.text-input {
+	background: transparent;
+	border: 1px solid #000;
+}
+
+.submit-button {
+	background-color: #fbf6ef;
+	padding: 10px;
+	border: 1px solid #000;
+}
+
+.submit-button:hover {
+	background-color: #dce0d9;
+	font-weight: 900;
 }
 
 footer {

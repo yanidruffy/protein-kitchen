@@ -1,6 +1,7 @@
 <!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward -->
 
-<!-- hero image credits:Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<!-- hero image credits:
+Photo by Priscilla Du Preez: https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash/
   -->
 <!-- gallery image credits:
 Photo by Malidate Van: https://www.pexels.com/photo/steak-food-769289/
@@ -10,4 +11,8 @@ Photo by Krisztina Papp: https://www.pexels.com/photo/cooked-fish-on-plate-23749
 Photo by Geraud pfeiffer: https://www.pexels.com/photo/delicious-breakfast-with-fish-sandwiches-on-plate-6605207/
 Photo by Klaus Nielsen: https://www.pexels.com/photo/appetizing-egg-roll-frying-on-pan-6294361/
 -->
-<!-- content credits: https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein#TOC_TITLE_HDR_9 -->
+<!-- signup image credits:
+Photo by SHVETS production: https://www.pexels.com/photo/confectioner-cooking-tasty-cupcakes-in-kitchen-7525118/ -->
+<!-- content credits:
+https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein#TOC_TITLE_HDR_9 -->
+<!-- https://formdump.codeinstitute.net -->
