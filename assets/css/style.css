@@ -100,6 +100,10 @@ main {
 	line-height: 1em;
 }
 
+#photos {
+	line-height: 0;
+}
+
 footer {
 	background-color: #dce0d9;
 	padding: 1rem;
@@ -121,6 +125,15 @@ footer > h5 {
 	padding: 0 1.5rem;
 }
 
+/* large or landscape phones */
+@media screen and (min-width: 576px) {
+	#photos {
+		column-count: 2;
+		column-gap: 0;
+	}
+}
+
+/* tablet screens and larger */
 @media screen and (min-width: 768px) {
 	header {
 		position: static;
@@ -134,8 +147,13 @@ footer > h5 {
 	main {
 		margin-top: 0px;
 	}
+
+	#photos {
+		column-count: 3;
+	}
 }
 
+/* laptop screens and larger */
 @media screen and (min-width: 992px) {
 	#menu a:hover {
 		border-bottom: 2px solid #000;

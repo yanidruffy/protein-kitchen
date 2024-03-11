@@ -8,5 +8,6 @@ Photo by Engin Akyurt: https://www.pexels.com/photo/plate-of-fries-and-burger-32
 Photo by Tim Douglas : https://www.pexels.com/photo/tasty-baked-chicken-with-vegetable-and-fruit-mix-on-table-6210959/
 Photo by Krisztina Papp: https://www.pexels.com/photo/cooked-fish-on-plate-2374946/
 Photo by Geraud pfeiffer: https://www.pexels.com/photo/delicious-breakfast-with-fish-sandwiches-on-plate-6605207/
+Photo by Klaus Nielsen: https://www.pexels.com/photo/appetizing-egg-roll-frying-on-pan-6294361/
 -->
 <!-- content credits: https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein#TOC_TITLE_HDR_9 -->
