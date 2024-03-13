@@ -10,6 +10,9 @@ Photo by Tim Douglas : https://www.pexels.com/photo/tasty-baked-chicken-with-veg
 Photo by Krisztina Papp: https://www.pexels.com/photo/cooked-fish-on-plate-2374946/
 Photo by Geraud pfeiffer: https://www.pexels.com/photo/delicious-breakfast-with-fish-sandwiches-on-plate-6605207/
 Photo by Klaus Nielsen: https://www.pexels.com/photo/appetizing-egg-roll-frying-on-pan-6294361/
+Photo by Lachlan  Ross: https://www.pexels.com/photo/plate-with-meat-pieces-on-sticks-near-poached-egg-6510396/
+Photo by Marta Dzedyshko: https://www.pexels.com/photo/plate-with-pancakes-topped-with-berry-jam-7175431/
+Photo by Piotr Arnoldes: https://www.pexels.com/photo/tasty-toast-with-pepperoni-slices-on-cutting-board-6493569/
 -->
 <!-- signup image credits:
 Photo by SHVETS production: https://www.pexels.com/photo/confectioner-cooking-tasty-cupcakes-in-kitchen-7525118/ -->
