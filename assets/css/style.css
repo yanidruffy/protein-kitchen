@@ -78,7 +78,7 @@ main {
 #hero {
 	height: 60vh;
 	width: 100%;
-	background: url(../images/hero-pk.jpg) no-repeat center right / cover;
+	background: url(../images/hero-pk.webp) no-repeat center right / cover;
 }
 
 .hero-text {
@@ -115,7 +115,7 @@ main {
 
 /* Sign Up page */
 #signup {
-	background: url(../images/pexels-shvets-production-7525118.jpg) no-repeat center right / cover;
+	background: url(../images/pexels-shvets-production-7525118.webp) no-repeat center right / cover;
 	height: 100vh;
 }
 
