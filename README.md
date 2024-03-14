@@ -6,7 +6,9 @@ Welcome to [Protein Kitchen!](https://yanidruffy.github.io/protein-kitchen/index
 
 ## Features
 ### Navigation Bar
+The full responsive navigation bar is featured on all pages. It includes links to the home, recipes, and sign up pages for conventional navigation through the website. When clicking on the logo, it will also direct you to the home page.
 ### Hero Section
+
 ### Benefits Section
 ### Footer Section
 ### Recipes Section
