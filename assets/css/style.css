@@ -235,6 +235,10 @@ footer > h5 {
 	.text-input {
 		padding: 5px 100px;
 	}
+
+	#socials {
+		justify-content: space-between;
+	}
 }
 
 /* laptop screens and larger */
@@ -246,5 +250,9 @@ footer > h5 {
 	#form {
 		position: absolute;
 		font-size: large;
+	}
+
+	#socials {
+		justify-content: space-between;
 	}
 }
