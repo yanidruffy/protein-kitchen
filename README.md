@@ -7,11 +7,21 @@ Welcome to [Protein Kitchen!](https://yanidruffy.github.io/protein-kitchen/index
 ## Features
 ### Navigation Bar
 The full responsive navigation bar is featured on all pages. It includes links to the home, recipes, and sign up pages for conventional navigation through the website. When clicking on the logo, it will also direct you to the home page.
+
 ![Navigation](./assets/readme-images/navigation.png)
 ### Hero Section
+This section welcomes users to Protein Kitchen with a short but precise one liner to show what this site is about.
+The hero text bar is clickable and will bring you to the recipes page.
+The image shows a breakfast scenario that grabs the attention of the user.
 
+![Hero](./assets/readme-images/hero.png)
 ### Benefits Section
+In this part of the home page, we provide the user with information on the benefits of protein rich foods.
+The user will see the value of this diet and should encourage the user to want to see the recipes.
+
+![Benefits](./assets/readme-images/benefits.png)
 ### Footer Section
+
 ### Recipes Section
 ### Sign-Up Section
 ## Testing
