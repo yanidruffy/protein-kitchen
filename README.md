@@ -1,3 +1,19 @@
+# Protein Kitchen
+
+Welcome to [Protein Kitchen!](https://yanidruffy.github.io/protein-kitchen/index.html)
+
+![Protein Kitchen](./assets/readme-images/amiresponsive.png)
+
+## Features
+### Navigation Bar
+### Hero Section
+### Benefits Section
+### Footer Section
+### Recipes Section
+### Sign-Up Section
+## Testing
+## Deployment
+## Credits
 <!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward -->
 
 <!-- hero image credits:
