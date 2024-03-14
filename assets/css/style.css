@@ -103,7 +103,21 @@ main {
 	text-align: justify;
 }
 
-/* Gallery page */
+/* Recipes page */
+.hook {
+	text-align: center;
+	padding: 1rem;
+}
+
+.hook h2 {
+	padding: 1rem;
+}
+
+.hook h3 {
+	text-transform: none;
+
+}
+
 #photos img{
 	width: 100%;
 	line-height: 1em;
