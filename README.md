@@ -27,11 +27,17 @@ This further engages with the audience and encourages them to stay connected.
 
 ![Footer](./assets/readme-images/footer.png)
 ### Recipes Section
+This page is here to get the user hooked on joining our community to access a wide range of protein packed recipes.
+Most of the page is taken in by a visually appealing gallery, showcasing various dishes that makes the user want more.
+The user will be redirected to the sign up page when clicking on an image.
+
+![Recipes](./assets/readme-images/recipes.png)
 ### Sign-Up Section
 ## Testing
 ## Deployment
 ## Credits
-<!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward -->
+<!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward
+also mention, submitting more frequently and in smaller scale -->
 
 <!-- hero image credits:
 Photo by Priscilla Du Preez: https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash/
