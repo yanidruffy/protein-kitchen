@@ -24,6 +24,8 @@ The user will see the value of this diet and should encourage the user to want t
 It contains Protein Kitchen's social media profiles.
 A new tab will appear and the user will be redirected to the chosen social media platform, when clicking on it.
 This further engages with the audience and encourages them to stay connected.
+
+![Footer](./assets/readme-images/footer.png)
 ### Recipes Section
 ### Sign-Up Section
 ## Testing
