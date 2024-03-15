@@ -63,3 +63,5 @@ Photo by SHVETS production: https://www.pexels.com/photo/confectioner-cooking-ta
 <!-- content credits:
 https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein#TOC_TITLE_HDR_9 -->
 <!-- https://formdump.codeinstitute.net -->
+
+<!-- favicon -->
