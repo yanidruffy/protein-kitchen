@@ -33,6 +33,11 @@ The user will be redirected to the sign up page when clicking on an image.
 
 ![Recipes](./assets/readme-images/recipes.png)
 ### Sign-Up Section
+The user is being provided with a sign-up form to become part of the Protein Kitchen community and enjoy access to all the recipes.
+All fields are required in order to submit.
+After submission, the page redirects you to Code Institute's dump site.
+
+![Signup](./assets/readme-images/signup.png)
 ## Testing
 ## Deployment
 ## Credits
