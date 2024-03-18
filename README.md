@@ -40,13 +40,40 @@ After submission, the page redirects you to Code Institute's dump site.
 ![Signup](./assets/readme-images/signup.png)
 ## Testing
 ## Deployment
+The website was deployed using github pages using following method:
+- Go to the "Settings" tab of your github repository
+- Click on "Pages" on the left column
+- Under "Source", select "main" branch
+- Click on "Save" to deploy the website
+- Once successfully deployed, a message with the live link will appear
+
+![Deployment](./assets/readme-images/deployment.png)
 ## Credits
+### Content
+- The Font I used is from [Google Fonts](https://fonts.google.com/)
+- The color palette I used is from [coolors](https://coolors.co/)
+- The icons I used are from [Font Awesome](https://fontawesome.com/)
+- The favicons I used are from [favicon](https://favicon.io/)
+- The text content was created using [Perplexity](https://www.perplexity.ai/), the source is from [healthline](https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein)
+
+### Reference
+- The inspiration for the layout of the website was [Code Institute's Love Running](https://github.com/Code-Institute-Solutions/love-running-v3) Project
+- The readme was created by looking at different readme's from my fellow colleagues [Marceillo](https://github.com/Marceillo/mindfulness/blob/main/README.md) and [Sebastian](https://github.com/Mienjung97/Owning-Cats/blob/main/README.md) as well as [Code Institute's Love Running](https://github.com/Code-Institute-Solutions/readme-template) readme template
+
+### Media
+- The image to demonstrate the websites responsiveness was created using [Amiresponsive](https://ui.dev/amiresponsive
+)
+- The images were converted to webp using [Convertio](https://convertio.co/de/jpg-webp/)
+- The images were resized using [Tinify](https://tinypng.com/)
+- The hero image was taken from [Unsplash](https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash/)
+- All other images were taken from [Pexels](https://www.pexels.com/) - link to the images are in the raw file
+
+<!-- ### Acknowledgements -->
+<!-- Special thank you to my Cohort Facilitator Kristyna and the colleagues in my slack group, especially the ones mentioned in the readme file. -->
+
 <!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward
 also mention, submitting more frequently and in smaller scale -->
 
-<!-- hero image credits:
-Photo by Priscilla Du Preez: https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash/
-  -->
 <!-- gallery image credits:
 Photo by Malidate Van: https://www.pexels.com/photo/steak-food-769289/
 Photo by Engin Akyurt: https://www.pexels.com/photo/plate-of-fries-and-burger-3219483/
@@ -60,8 +87,3 @@ Photo by Piotr Arnoldes: https://www.pexels.com/photo/tasty-toast-with-pepperoni
 -->
 <!-- signup image credits:
 Photo by SHVETS production: https://www.pexels.com/photo/confectioner-cooking-tasty-cupcakes-in-kitchen-7525118/ -->
-<!-- content credits:
-https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein#TOC_TITLE_HDR_9 -->
-<!-- https://formdump.codeinstitute.net -->
-
-<!-- favicon -->
