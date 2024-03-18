@@ -39,6 +39,10 @@ After submission, the page redirects you to Code Institute's dump site.
 
 ![Signup](./assets/readme-images/signup.png)
 ## Testing
+### HTML Validator
+### CSS Validator
+### Responsiveness Test
+### Lighthouse
 ## Deployment
 The website was deployed using github pages using following method:
 - Go to the "Settings" tab of your github repository
