@@ -47,6 +47,9 @@ The website was deployed using github pages using following method:
 - Click on "Save" to deploy the website
 - Once successfully deployed, a message with the live link will appear
 
+### Committing Practices
+At the start of this project, commits were written in past tense and were made infrequently and in larger batches. After learning about the best practices for commiting code, I made some changes. The messages are now in the imperative mood and commits are submitted more frequently and in smaller scales
+
 ![Deployment](./assets/readme-images/deployment.png)
 ## Credits
 ### Content
@@ -69,10 +72,7 @@ The website was deployed using github pages using following method:
 - All other images were taken from [Pexels](https://www.pexels.com/) - link to the images are in the raw file
 
 <!-- ### Acknowledgements -->
-<!-- Special thank you to my Cohort Facilitator Kristyna and the colleagues in my slack group, especially the ones mentioned in the readme file. -->
-
-<!-- mention that I started committing in the past tense but learned about the best practices and submitted them in the present moving forward
-also mention, submitting more frequently and in smaller scale -->
+<!-- Special thank you to my Cohort Facilitator Kristyna and the colleagues in my slack group, especially the ones mentioned in the readme file. Spence, family -->
 
 <!-- gallery image credits:
 Photo by Malidate Van: https://www.pexels.com/photo/steak-food-769289/
