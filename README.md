@@ -40,10 +40,25 @@ After submission, the page redirects you to Code Institute's dump site.
 ![Signup](./assets/readme-images/signup.png)
 ## Testing
 ### HTML Validator
+HTML files have been validated using [W3C Markup Validation Service](https://validator.w3.org/)
+![Index-html](./assets/readme-images/htmlcheck-index.png)
+![Recipes-html](./assets/readme-images/htmlcheck-recipes.png)
+![Signup-html](./assets/readme-images/htmlcheck-signup.png)
 ### CSS Validator
+CSS file has been validated using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+![CSS](./assets/readme-images/csscheck.png)
 ### Responsiveness Test
+I have tested the website on its responsiveness using [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/).
 ### Lighthouse
+Lighthouse reports have been generated for the website.
 #### Desktop
+![Desktop-Index](./assets/readme-images/lighthouse-desktop-index.png)
+![Desktop-Recipes](./assets/readme-images/lighthouse-desktop-recipes.png)
+![Desktop-Signup](./assets/readme-images/lighthouse-desktop-signup.png)
+#### Mobile
+![Mobile-Index](./assets/readme-images/lighthouse-mobile-index.png)
+![Mobile-Recipes](./assets/readme-images/lighthouse-mobile-recipes.png)
+![Mobile-Signup](./assets/readme-images/lighthouse-mobile-signup.png)
 
 ## Deployment
 The website was deployed using github pages using following method:
