@@ -43,6 +43,8 @@ After submission, the page redirects you to Code Institute's dump site.
 ### CSS Validator
 ### Responsiveness Test
 ### Lighthouse
+#### Desktop
+
 ## Deployment
 The website was deployed using github pages using following method:
 - Go to the "Settings" tab of your github repository
@@ -75,8 +77,8 @@ At the start of this project, commits were written in past tense and were made i
 - The hero image was taken from [Unsplash](https://unsplash.com/photos/egg-on-white-ceramic-plate-beside-stainless-steel-fork-and-knife-9sgaZwWw-WA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash/)
 - All other images were taken from [Pexels](https://www.pexels.com/) - link to the images are in the raw file
 
-<!-- ### Acknowledgements -->
-<!-- Special thank you to my Cohort Facilitator Kristyna and the colleagues in my slack group, especially the ones mentioned in the readme file. Spence, family -->
+### Acknowledgements
+Special thank you to my Cohort Facilitator Kristyna and the colleagues in my slack group, especially the ones mentioned in the readme file. Shoutout to my mentor Spence, who helped me finalise the project.
 
 <!-- gallery image credits:
 Photo by Malidate Van: https://www.pexels.com/photo/steak-food-769289/
