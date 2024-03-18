@@ -175,6 +175,7 @@ main {
 footer {
 	background-color: #dce0d9;
 	padding: 1rem;
+	z-index: 1;
 }
 
 footer > h5 {
