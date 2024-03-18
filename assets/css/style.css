@@ -13,6 +13,8 @@ body {
 	flex-direction: column;
 	width: 100%;
 	min-height: 100vh;
+	max-width: 1536px;
+	margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5 {
@@ -257,6 +259,7 @@ footer > h5 {
 	}
 
 	#signup {
+		background: url(../images/pexels-shvets-production-7525118.webp) no-repeat center center / cover;
 		justify-content: flex-start;
 	}
 
